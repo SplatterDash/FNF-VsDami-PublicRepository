@@ -1,0 +1,13 @@
+{
+	"songs": [
+		["Tutorial", "gf", "bf", "SplatterDash"]
+	],
+
+	"storyName": "Pillow Talk",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

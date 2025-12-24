@@ -1,0 +1,17 @@
+{
+	"songs": [
+		["Blister", "audity", "dami", "ItsAudity"],
+		["Dami-Nate (Erect Remix)", "erectdami", "erectbf", "ItsAudity"],
+		["Entitled", "shrunkly", "bf", "ItsAudity"],
+		["Improbable Outset (Dami Mix)", "tricky", "dome", "SplatterDash"],
+		["Backstreets", "mdami", "bf", "MegaFreedom1274"]
+	],
+	
+	"storyName": "The Freeplay Songs!",
+	"weekBefore": "",
+	"weekName": "FREEPLAY",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

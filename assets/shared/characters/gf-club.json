@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "danceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-45, -59],
+			"anim": "danceLeft-sc",
+			"fps": 24,
+			"name": "scaredLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-50, -61],
+			"anim": "danceRight-sc",
+			"fps": 24,
+			"name": "scaredRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-119, 4],
+			"anim": "danceLeft-fall",
+			"fps": 24,
+			"name": "fallLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-144, 26],
+			"anim": "danceRight-fall",
+			"fps": 24,
+			"name": "fallRight",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gfBoombox",
+	"position": [20, 230],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [165, 0, 77],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.05,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Speaker0"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Speaker2"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Erect_Speakr",
+	"position": [-380, -30],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [49, 156, 209],
+	"camera_position": [-150, 70],
+	"sing_duration": 4,
+	"scale": 1.05,
+	"_editor_isPlayer": false
+}

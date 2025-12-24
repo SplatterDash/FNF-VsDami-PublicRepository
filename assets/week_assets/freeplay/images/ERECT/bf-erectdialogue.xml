@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-erectdialogue.png">
+<SubTexture name="mock-loop0000" x="0" y="0" width="708" height="684" frameX="0" frameY="0" frameWidth="719" frameHeight="680" />
+<SubTexture name="mock-loop0001" x="0" y="684" width="703" height="684" frameX="-11" frameY="0" frameWidth="719" frameHeight="680" />
+<SubTexture name="mock-loop0002" x="0" y="1368" width="703" height="684" frameX="-20" frameY="0" frameWidth="719" frameHeight="680" />
+<SubTexture name="mock-miss0000" x="0" y="2052" width="714" height="684" frameX="-1" frameY="0" frameWidth="719" frameHeight="680" />
+</TextureAtlas>

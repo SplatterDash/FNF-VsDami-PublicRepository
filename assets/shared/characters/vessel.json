@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 8,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [155, 306],
+			"loop": false,
+			"fps": 12,
+			"anim": "transfor1",
+			"indices": [0, 1, 2, 3, 4],
+			"name": "transform"
+		},
+		{
+			"offsets": [155, 306],
+			"loop": false,
+			"fps": 12,
+			"anim": "transfor2",
+			"indices": [5, 4],
+			"name": "transform"
+		},
+		{
+			"offsets": [155, 306],
+			"loop": false,
+			"fps": 12,
+			"anim": "transfor3",
+			"indices": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 44, 45, 44, 45, 44, 45, 44, 45, 44, 45],
+			"name": "transform"
+		},
+		{
+			"offsets": [155, 306],
+			"loop": false,
+			"fps": 1,
+			"anim": "idle-alt",
+			"indices": [5, 5, 5],
+			"name": "transform"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/vessel",
+	"position": [-200, 80],
+	"healthicon": "vessel",
+	"flip_x": false,
+	"healthbar_colors": [0, 105, 255],
+	"camera_position": [0, 40],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

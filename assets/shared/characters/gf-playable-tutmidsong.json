@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "danceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [44, 55],
+			"anim": "oh",
+			"fps": 24,
+			"name": "animationgf",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gfMidsong",
+	"position": [25, 75],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [165, 0, 77],
+	"camera_position": [0, -90],
+	"sing_duration": 4,
+	"scale": 1.05,
+	"_editor_isPlayer": false
+}

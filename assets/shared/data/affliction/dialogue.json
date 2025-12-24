@@ -1,0 +1,45 @@
+{
+    "dialogue": [
+        {
+            "portrait": "dami",
+            "expression": "stupid",
+            "audio": "dami-line1",
+            "text": "Heh, not bad!"
+        }, {
+            "portrait": "dami",
+            "expression": "cough",
+            "audio": "dami-line2",
+            "text": "Why don't you keep the bars flowin'?"
+        }, {
+            "portrait": "aiden",
+            "expression": "concerned",
+            "audio": "aiden-line1",
+            "text": "Dami are you sure? You’re sweating a bit - I don’t want to have a repeat of-"
+        }, {
+            "portrait": "dami",
+            "expression": "weak",
+            "audio": "dami-line3",
+            "text": "I’m not gonna repeat that again!"
+        }, {
+            "portrait": "gfvd",
+            "expression": "confused",
+            "audio": "gf-line1",
+            "text": "Uh, listen, it was fun to talk with you guys, but maybe we should go in and get settled before we go back at it again…?"
+        }, {
+            "portrait": "dami",
+            "expression": "cough",
+            "audio": "dami-line4",
+            "text": ""
+        }, {
+            "portrait": "bfvd",
+            "expression": "cocky",
+            "audio": "bf-line1",
+            "text": "You heard him! This line isn’t getting longer or nicer - if you’re in for another round, let’s do it Dami!"
+        }, {
+            "portrait": "dami",
+            "expression": "confidentbutweak",
+            "audio": "dami-line5",
+            "text": "You’re on!"
+        }
+    ]
+}

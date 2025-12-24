@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shunkly-bobm.png">
+<SubTexture name="bobm idle0000" x="0" y="0" width="251" height="66" frameX="-205" frameY="-658" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0001" x="251" y="0" width="395" height="143" frameX="-187" frameY="-581" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0002" x="646" y="0" width="456" height="441" frameX="-175" frameY="-283" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0003" x="1102" y="0" width="473" height="529" frameX="-145" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0004" x="0" y="529" width="477" height="484" frameX="-162" frameY="-240" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0005" x="477" y="529" width="502" height="486" frameX="-136" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0006" x="979" y="529" width="502" height="486" frameX="-136" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0007" x="477" y="529" width="502" height="486" frameX="-136" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0008" x="979" y="529" width="502" height="486" frameX="-136" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0009" x="477" y="529" width="502" height="486" frameX="-136" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0010" x="979" y="529" width="502" height="486" frameX="-136" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0011" x="477" y="529" width="502" height="486" frameX="-136" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0012" x="1481" y="529" width="461" height="401" frameX="-157" frameY="-323" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0013" x="0" y="1015" width="524" height="313" frameX="-98" frameY="-411" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0014" x="524" y="1015" width="507" height="397" frameX="-129" frameY="-327" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0015" x="1031" y="1015" width="538" height="558" frameX="-156" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0016" x="1569" y="1015" width="622" height="716" frameX="-166" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0017" x="0" y="1731" width="770" height="724" frameX="-129" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0018" x="770" y="1731" width="787" height="724" frameX="-82" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0019" x="1557" y="1731" width="843" height="718" frameX="-30" frameY="-6" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0020" x="2400" y="1731" width="931" height="724" frameX="-44" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0021" x="0" y="2455" width="842" height="720" frameX="-33" frameY="-4" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0022" x="842" y="2455" width="869" height="722" frameX="-6" frameY="-2" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0023" x="1711" y="2455" width="964" height="724" frameX="-11" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bobm idle0024" x="2675" y="2455" width="955" height="724" frameX="-11" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

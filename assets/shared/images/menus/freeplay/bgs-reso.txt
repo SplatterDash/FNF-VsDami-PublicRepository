@@ -1,0 +1,3 @@
+backgrounds go in week-assets/[week folder]/images/Freeplay
+if needed add a specific identifier in the code
+978 wdth x 550 hght

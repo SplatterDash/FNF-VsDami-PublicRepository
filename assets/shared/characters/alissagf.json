@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "look-right",
+			"indices": [],
+			"name": "right-lookLeft"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "look-left",
+			"indices": [],
+			"name": "left-lookRight"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "danceRight-left",
+			"fps": 12,
+			"name": "left-idle",
+			"indices": [5, 6, 7, 8, 9]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "danceLeft-left",
+			"fps": 12,
+			"name": "left-idle",
+			"indices": [0, 1, 2, 3, 4]
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 2, 3, 4],
+			"fps": 12,
+			"anim": "danceLeft-right",
+			"loop": false,
+			"name": "right-idle"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [5, 6, 7, 8, 9],
+			"fps": 12,
+			"anim": "danceRight-right",
+			"loop": false,
+			"name": "right-idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/alissagf",
+	"position": [-95, 85],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [140, 0, 60],
+	"camera_position": [-200, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

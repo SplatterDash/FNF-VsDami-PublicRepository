@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFVD_Dialogue.png">
+<SubTexture name="cocky0000" x="0" y="0" width="364" height="341" frameX="-32" frameY="-34" frameWidth="400" frameHeight="400" />
+<SubTexture name="happy0000" x="364" y="0" width="350" height="335" frameX="-31" frameY="-36" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

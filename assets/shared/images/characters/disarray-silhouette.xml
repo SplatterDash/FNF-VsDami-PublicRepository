@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="disarray-silhouette.png">
+<SubTexture name="down0000" x="0" y="0" width="754" height="835" frameX="-128" frameY="-170" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="down0001" x="754" y="0" width="733" height="866" frameX="-144" frameY="-139" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="idle0000" x="1487" y="0" width="623" height="868" frameX="-144" frameY="-76" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="idle0001" x="2110" y="0" width="623" height="889" frameX="-144" frameY="-66" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="idle0002" x="0" y="889" width="639" height="863" frameX="-128" frameY="-76" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="idle0003" x="639" y="889" width="623" height="847" frameX="-144" frameY="-92" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="idle0004" x="1262" y="889" width="623" height="842" frameX="-144" frameY="-97" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="left0000" x="1885" y="889" width="840" height="842" frameX="0" frameY="-113" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="left0001" x="0" y="1752" width="607" height="873" frameX="-19" frameY="-97" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="right0000" x="607" y="1752" width="816" height="878" frameX="-154" frameY="-92" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="right0001" x="1423" y="1752" width="769" height="879" frameX="-139" frameY="-97" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="up0000" x="2192" y="1752" width="638" height="970" frameX="-144" frameY="0" frameWidth="1001" frameHeight="1001" />
+<SubTexture name="up0001" x="0" y="2722" width="660" height="951" frameX="-128" frameY="-35" frameWidth="1001" frameHeight="1001" />
+</TextureAtlas>

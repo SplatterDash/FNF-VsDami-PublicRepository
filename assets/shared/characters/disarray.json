@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-49
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "godright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-227,
+				-35
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "godleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				-270
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "goddown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				128
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "godup",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "godidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/disarray",
+	"position": [
+		-170,
+		0
+	],
+	"healthicon": "disarray",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		135,
+		255
+	],
+	"camera_position": [
+		250,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

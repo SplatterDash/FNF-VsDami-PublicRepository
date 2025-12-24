@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [8, 103],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "2_up"
+		},
+		{
+			"offsets": [20, -104],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "3_down"
+		},
+		{
+			"offsets": [230, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "4_left"
+		},
+		{
+			"offsets": [-40, -49],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "5_right"
+		},
+		{
+			"offsets": [3, 115],
+			"loop": false,
+			"fps": 24,
+			"anim": "hwg",
+			"indices": [],
+			"name": "6_HWG00"
+		},
+		{
+			"offsets": [280, 237],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "7_HAHA00"
+		},
+		{
+			"offsets": [250, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "yippee",
+			"indices": [],
+			"name": "10_yippe00"
+		},
+		{
+			"offsets": [60, 90],
+			"loop": false,
+			"fps": 24,
+			"anim": "yeah",
+			"indices": [],
+			"name": "9_YEAH00"
+		},
+		{
+			"offsets": [72, 147],
+			"loop": false,
+			"fps": 24,
+			"anim": "nyda",
+			"indices": [],
+			"name": "8_NYDA00"
+		},
+		{
+			"loop": false,
+			"offsets": [162, 232],
+			"anim": "mic_toss",
+			"fps": 24,
+			"name": "8.5_mic_toss00",
+			"indices": []
+		},
+		{
+			"offsets": [-22, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+			"name": "1_idle"
+		},
+		{
+			"offsets": [-22, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+			"name": "1_idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/2025_shunkly",
+	"position": [10, 320],
+	"healthicon": "shrunkly",
+	"flip_x": false,
+	"healthbar_colors": [63, 86, 185],
+	"camera_position": [-260, 30],
+	"sing_duration": 4,
+	"scale": 0.99,
+	"_editor_isPlayer": false
+}

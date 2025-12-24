@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2025_shunkly_bkgrnd.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1_front_crowd0000" x="0" y="0" width="2541" height="967" frameX="-12" frameY="-1" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0001" x="0" y="0" width="2541" height="967" frameX="-12" frameY="-1" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0002" x="2541" y="0" width="2516" height="967" frameX="-25" frameY="-1" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0003" x="2541" y="0" width="2516" height="967" frameX="-25" frameY="-1" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0004" x="5057" y="0" width="2543" height="966" frameX="-11" frameY="-4" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0005" x="5057" y="0" width="2543" height="966" frameX="-11" frameY="-4" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0006" x="0" y="967" width="2559" height="965" frameX="-3" frameY="-6" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0007" x="0" y="967" width="2559" height="965" frameX="-3" frameY="-6" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0008" x="2559" y="967" width="2565" height="965" frameX="0" frameY="-6" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0009" x="2559" y="967" width="2565" height="965" frameX="0" frameY="-6" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0010" x="5124" y="967" width="2565" height="965" frameX="0" frameY="-6" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0011" x="5124" y="967" width="2565" height="965" frameX="0" frameY="-6" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0012" x="0" y="1932" width="2565" height="965" frameX="0" frameY="-6" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0013" x="0" y="1932" width="2565" height="965" frameX="0" frameY="-6" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="1_front_crowd0014" x="0" y="1932" width="2565" height="965" frameX="0" frameY="-6" frameWidth="2565" frameHeight="971"/>
+	<SubTexture name="2_back_crowd0000" x="2565" y="1932" width="2208" height="872" frameX="-4" frameY="-13" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0001" x="4773" y="1932" width="2208" height="872" frameX="-4" frameY="-13" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0002" x="0" y="2897" width="2198" height="873" frameX="-9" frameY="-12" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0003" x="0" y="2897" width="2198" height="873" frameX="-9" frameY="-12" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0004" x="2198" y="2897" width="2209" height="877" frameX="-6" frameY="-8" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0005" x="2198" y="2897" width="2209" height="877" frameX="-6" frameY="-8" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0006" x="4407" y="2897" width="2219" height="876" frameX="-1" frameY="-9" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0007" x="4407" y="2897" width="2219" height="876" frameX="-1" frameY="-9" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0008" x="0" y="3774" width="2221" height="876" frameX="0" frameY="-9" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0009" x="0" y="3774" width="2221" height="876" frameX="0" frameY="-9" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0010" x="2221" y="3774" width="2221" height="875" frameX="0" frameY="-10" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0011" x="2221" y="3774" width="2221" height="875" frameX="0" frameY="-10" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0012" x="4442" y="3774" width="2221" height="875" frameX="0" frameY="-10" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0013" x="0" y="4650" width="2221" height="879" frameX="0" frameY="-6" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0014" x="2221" y="4650" width="2221" height="879" frameX="0" frameY="-6" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0015" x="4442" y="4650" width="2208" height="881" frameX="-4" frameY="-4" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0016" x="0" y="5531" width="2208" height="881" frameX="-4" frameY="-4" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0017" x="2208" y="5531" width="2198" height="880" frameX="-9" frameY="-5" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0018" x="2208" y="5531" width="2198" height="880" frameX="-9" frameY="-5" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0019" x="4406" y="5531" width="2209" height="876" frameX="-6" frameY="-9" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0020" x="4406" y="5531" width="2209" height="876" frameX="-6" frameY="-9" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0021" x="0" y="6412" width="2219" height="870" frameX="-1" frameY="-15" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0022" x="0" y="6412" width="2219" height="870" frameX="-1" frameY="-15" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0023" x="2219" y="6412" width="2221" height="869" frameX="0" frameY="-16" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0024" x="2219" y="6412" width="2221" height="869" frameX="0" frameY="-16" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0025" x="4440" y="6412" width="2221" height="872" frameX="0" frameY="-13" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0026" x="4440" y="6412" width="2221" height="872" frameX="0" frameY="-13" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0027" x="0" y="7284" width="2221" height="872" frameX="0" frameY="-13" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0028" x="2221" y="7284" width="2221" height="873" frameX="0" frameY="-12" frameWidth="2221" frameHeight="885"/>
+	<SubTexture name="2_back_crowd0029" x="4442" y="7284" width="2221" height="873" frameX="0" frameY="-12" frameWidth="2221" frameHeight="885"/>
+</TextureAtlas>

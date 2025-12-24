@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ErectBF.png">
+<SubTexture name="down0000" x="0" y="0" width="407" height="455" frameX="-108" frameY="-161" frameWidth="734" frameHeight="734" />
+<SubTexture name="down0001" x="407" y="0" width="415" height="444" frameX="-100" frameY="-172" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFdownmiss0000" x="0" y="0" width="407" height="455" frameX="-108" frameY="-161" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFdownmiss0001" x="822" y="0" width="511" height="434" frameX="-7" frameY="-182" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFdownmiss0002" x="822" y="0" width="511" height="434" frameX="-7" frameY="-182" frameWidth="734" frameHeight="734" />
+<SubTexture name="hey0000" x="1333" y="0" width="508" height="584" frameX="-139" frameY="-32" frameWidth="734" frameHeight="734" />
+<SubTexture name="hey0001" x="1841" y="0" width="501" height="565" frameX="-124" frameY="-51" frameWidth="734" frameHeight="734" />
+<SubTexture name="hey0002" x="0" y="584" width="495" height="575" frameX="-141" frameY="-41" frameWidth="734" frameHeight="734" />
+<SubTexture name="hey0003" x="495" y="584" width="468" height="575" frameX="-168" frameY="-41" frameWidth="734" frameHeight="734" />
+<SubTexture name="hey0004" x="963" y="584" width="468" height="575" frameX="-168" frameY="-41" frameWidth="734" frameHeight="734" />
+<SubTexture name="hey0005" x="1431" y="584" width="431" height="488" frameX="-168" frameY="-128" frameWidth="734" frameHeight="734" />
+<SubTexture name="idle0000" x="1862" y="584" width="368" height="472" frameX="-170" frameY="-143" frameWidth="734" frameHeight="734" />
+<SubTexture name="idle0001" x="0" y="1159" width="366" height="458" frameX="-164" frameY="-157" frameWidth="734" frameHeight="734" />
+<SubTexture name="idle0002" x="366" y="1159" width="367" height="465" frameX="-167" frameY="-150" frameWidth="734" frameHeight="734" />
+<SubTexture name="idle0003" x="733" y="1159" width="369" height="471" frameX="-169" frameY="-144" frameWidth="734" frameHeight="734" />
+<SubTexture name="idle0004" x="1102" y="1159" width="369" height="472" frameX="-170" frameY="-143" frameWidth="734" frameHeight="734" />
+<SubTexture name="idle0005" x="1862" y="584" width="368" height="472" frameX="-170" frameY="-143" frameWidth="734" frameHeight="734" />
+<SubTexture name="left0000" x="1471" y="1159" width="491" height="464" frameX="-12" frameY="-151" frameWidth="734" frameHeight="734" />
+<SubTexture name="left0001" x="0" y="1631" width="477" height="462" frameX="-28" frameY="-153" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFleftmiss0000" x="1471" y="1159" width="491" height="464" frameX="-12" frameY="-151" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFleftmiss0001" x="477" y="1631" width="497" height="546" frameX="-4" frameY="-70" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFleftmiss0002" x="477" y="1631" width="497" height="546" frameX="-4" frameY="-70" frameWidth="734" frameHeight="734" />
+<SubTexture name="right0000" x="974" y="1631" width="473" height="450" frameX="-192" frameY="-167" frameWidth="734" frameHeight="734" />
+<SubTexture name="right0001" x="1447" y="1631" width="462" height="446" frameX="-185" frameY="-170" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFrightmiss0000" x="974" y="1631" width="473" height="450" frameX="-192" frameY="-167" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFrightmiss0001" x="1909" y="1631" width="488" height="474" frameX="-162" frameY="-147" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFrightmiss0002" x="1909" y="1631" width="488" height="474" frameX="-162" frameY="-147" frameWidth="734" frameHeight="734" />
+<SubTexture name="up0000" x="0" y="2177" width="394" height="568" frameX="-201" frameY="-51" frameWidth="734" frameHeight="734" />
+<SubTexture name="up0001" x="394" y="2177" width="400" height="559" frameX="-193" frameY="-60" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFupmiss0000" x="0" y="2177" width="394" height="568" frameX="-201" frameY="-51" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFupmiss0001" x="794" y="2177" width="500" height="550" frameX="-80" frameY="-70" frameWidth="734" frameHeight="734" />
+<SubTexture name="BFupmiss0002" x="794" y="2177" width="500" height="550" frameX="-80" frameY="-70" frameWidth="734" frameHeight="734" />
+</TextureAtlas>

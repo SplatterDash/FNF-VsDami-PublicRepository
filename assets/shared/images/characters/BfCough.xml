@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="texture.png" width="3033" height="2842">
+	<SubTexture name="Idle0000" x="1422" y="2368" width="481" height="424" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0001" x="1422" y="2368" width="481" height="424" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0002" x="2605" y="4" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0003" x="2605" y="4" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0004" x="2605" y="489" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0005" x="2605" y="489" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0006" x="2605" y="974" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0007" x="2605" y="974" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0008" x="2604" y="1459" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0009" x="2604" y="1459" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0010" x="2604" y="1944" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0011" x="2604" y="1944" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0012" x="2604" y="1944" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0013" x="2604" y="1944" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="Idle0014" x="2604" y="1944" width="424" height="481" rotated="true" frameX="-0" frameY="-0" frameWidth="481" frameHeight="424"/>
+	<SubTexture name="coughingfit0000" x="4" y="4" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0001" x="4" y="4" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0002" x="4" y="477" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0003" x="4" y="477" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0004" x="4" y="477" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0005" x="4" y="477" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0006" x="713" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0007" x="713" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0008" x="713" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0009" x="713" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0010" x="713" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0011" x="713" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0012" x="713" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0013" x="4" y="950" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0014" x="4" y="950" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0015" x="4" y="950" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0016" x="4" y="950" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0017" x="4" y="950" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0018" x="4" y="950" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0019" x="4" y="950" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0020" x="4" y="950" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0021" x="4" y="950" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0022" x="1186" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0023" x="1186" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0024" x="1186" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0025" x="1186" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0026" x="1186" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0027" x="4" y="1423" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0028" x="4" y="1423" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0029" x="4" y="1423" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0030" x="4" y="1423" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0031" x="713" y="1422" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0032" x="713" y="1422" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0033" x="713" y="1422" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0034" x="713" y="1422" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0035" x="1659" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0036" x="1659" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0037" x="1659" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0038" x="1659" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0039" x="1659" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0040" x="1659" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0041" x="1659" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0042" x="1659" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0043" x="1659" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0044" x="1659" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0045" x="1659" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0046" x="1659" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0047" x="1422" y="1422" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0048" x="1422" y="1422" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0049" x="4" y="1896" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0050" x="4" y="1896" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0051" x="713" y="1895" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0052" x="713" y="1895" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0053" x="713" y="1895" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0054" x="713" y="1895" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0055" x="1422" y="1895" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0056" x="1422" y="1895" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0057" x="2132" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0058" x="2132" y="4" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0059" x="2132" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0060" x="2132" y="713" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0061" x="2131" y="1422" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0062" x="2131" y="1422" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0063" x="4" y="2369" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0064" x="4" y="2369" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0065" x="4" y="2369" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0066" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0067" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0068" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0069" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0070" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0071" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0072" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0073" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0074" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0075" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0076" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0077" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0078" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0079" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0080" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0081" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0082" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0083" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0084" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0085" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0086" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0087" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0088" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0089" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0090" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0091" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0092" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0093" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0094" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0095" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0096" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0097" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0098" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0099" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0100" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0101" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0102" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0103" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0104" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0105" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0106" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0107" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0108" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0109" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0110" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0111" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0112" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0113" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0114" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0115" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0116" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0117" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0118" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0119" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0120" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0121" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0122" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0123" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0124" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0125" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0126" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0127" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0128" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0129" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0130" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0131" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0132" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0133" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0134" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0135" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0136" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0137" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0138" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0139" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0140" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0141" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0142" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0143" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0144" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0145" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0146" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0147" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0148" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0149" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0150" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0151" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0152" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0153" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0154" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0155" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0156" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0157" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0158" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0159" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0160" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0161" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0162" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0163" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0164" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0165" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0166" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0167" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0168" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0169" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0170" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0171" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0172" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0173" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0174" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0175" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0176" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0177" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0178" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0179" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0180" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0181" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0182" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0183" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0184" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0185" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0186" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0187" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0188" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0189" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0190" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0191" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0192" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0193" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0194" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0195" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0196" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0197" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0198" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0199" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0200" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0201" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0202" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0203" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0204" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0205" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0206" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0207" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0208" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0209" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0210" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0211" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0212" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0213" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0214" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0215" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0216" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0217" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0218" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0219" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0220" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0221" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0222" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0223" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0224" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0225" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0226" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0227" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0228" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0229" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0230" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0231" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0232" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0233" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0234" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0235" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0236" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0237" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0238" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0239" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0240" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0241" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0242" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0243" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0244" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0245" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0246" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0247" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0248" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0249" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0250" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0251" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0252" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0253" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0254" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0255" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0256" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0257" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0258" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0259" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0260" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0261" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0262" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0263" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0264" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0265" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0266" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0267" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0268" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0269" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0270" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0271" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0272" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0273" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0274" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0275" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0276" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0277" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0278" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0279" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0280" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0281" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0282" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0283" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0284" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0285" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0286" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0287" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0288" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0289" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0290" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0291" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0292" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0293" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0294" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0295" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0296" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0297" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0298" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0299" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0300" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0301" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0302" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0303" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0304" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0305" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0306" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0307" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0308" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0309" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0310" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0311" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0312" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0313" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0314" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0315" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0316" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0317" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0318" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0319" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0320" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0321" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0322" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0323" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0324" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0325" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0326" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0327" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0328" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0329" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0330" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0331" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0332" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0333" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0334" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0335" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0336" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0337" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0338" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0339" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0340" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0341" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0342" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0343" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0344" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0345" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0346" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0347" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0348" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0349" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0350" x="713" y="2368" width="705" height="469" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+	<SubTexture name="coughingfit0351" x="2131" y="2131" width="469" height="705" rotated="true" frameX="-0" frameY="-0" frameWidth="705" frameHeight="519"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+{
+	"directory": "a1-dami",
+	"defaultZoom": 0.45,
+	"stageUI": "",
+
+	"boyfriend": [1070, 200],
+	"girlfriend": [750, 150],
+	"opponent": [400, 200],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-100, 0],
+	"camera_opponent": [50, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+
+	"preload": {
+		"images/Dami/bgfull": 3,
+		"characters/aidan": 3
+	},
+
+	"_editorMeta": {
+		"dad": "gf-spectator",
+		"boyfriend": "bf-club",
+		"gf": "dami"
+	}
+}

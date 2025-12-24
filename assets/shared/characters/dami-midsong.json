@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "ahah",
+			"indices": [],
+			"name": "ahah"
+		},
+		{
+			"offsets": [-5, -14],
+			"loop": false,
+			"fps": 24,
+			"anim": "thisdude",
+			"indices": [],
+			"name": "thisdude"
+		},
+		{
+			"loop": false,
+			"offsets": [150, 114],
+			"anim": "checkit",
+			"fps": 24,
+			"name": "nowcheckIt",
+			"indices": []
+		},
+		{
+			"offsets": [61, 137],
+			"indices": [],
+			"fps": 25,
+			"anim": "switchit",
+			"loop": false,
+			"name": "timetoswitchitup"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Midsongevents_VsDami",
+	"position": [90, 260],
+	"healthicon": "dami",
+	"flip_x": false,
+	"healthbar_colors": [0, 112, 251],
+	"camera_position": [-129, -60],
+	"sing_duration": 6.1,
+	"scale": 1.3,
+	"_editor_isPlayer": false
+}

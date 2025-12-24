@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shunkly-aerliens.png">
+<SubTexture name="airline idle0000" x="0" y="0" width="280" height="112" frameX="-12" frameY="-39" frameWidth="300" frameHeight="167" />
+<SubTexture name="airline idle0001" x="0" y="112" width="282" height="112" frameX="-12" frameY="-39" frameWidth="300" frameHeight="167" />
+<SubTexture name="airline idle0002" x="0" y="224" width="276" height="127" frameX="-12" frameY="-38" frameWidth="300" frameHeight="167" />
+<SubTexture name="airline idle0003" x="0" y="351" width="277" height="123" frameX="-12" frameY="-38" frameWidth="300" frameHeight="167" />
+</TextureAtlas>

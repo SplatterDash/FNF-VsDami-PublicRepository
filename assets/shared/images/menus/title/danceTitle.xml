@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="danceTitle.png">
+<SubTexture name="damiDance idle0000" x="0" y="0" width="521" height="788" frameX="-20" frameY="-18" frameWidth="550" frameHeight="802" />
+<SubTexture name="damiDance idle0001" x="521" y="0" width="543" height="795" frameX="0" frameY="-11" frameWidth="550" frameHeight="802" />
+<SubTexture name="damiDance idle0002" x="0" y="795" width="543" height="801" frameX="-2" frameY="-5" frameWidth="550" frameHeight="802" />
+<SubTexture name="damiDance idle0003" x="543" y="795" width="547" height="803" frameX="-4" frameY="-3" frameWidth="550" frameHeight="802" />
+<SubTexture name="damiDance idle0004" x="0" y="1598" width="550" height="806" frameX="-4" frameY="0" frameWidth="550" frameHeight="802" />
+<SubTexture name="damiDance idle0005" x="550" y="1598" width="550" height="806" frameX="-4" frameY="0" frameWidth="550" frameHeight="802" />
+<SubTexture name="damiDance idle0006" x="550" y="1598" width="550" height="806" frameX="-4" frameY="0" frameWidth="550" frameHeight="802" />
+</TextureAtlas>

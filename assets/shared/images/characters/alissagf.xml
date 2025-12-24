@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="alissagf.png">
+<SubTexture name="left-idle0000" x="0" y="0" width="481" height="662" frameX="-99" frameY="-7" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-idle0001" x="481" y="0" width="458" height="659" frameX="-108" frameY="-7" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-idle0002" x="939" y="0" width="459" height="661" frameX="-107" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-idle0003" x="1398" y="0" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-idle0004" x="1858" y="0" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-idle0005" x="0" y="662" width="454" height="656" frameX="-126" frameY="-13" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-idle0006" x="454" y="662" width="466" height="662" frameX="-100" frameY="-4" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-idle0007" x="920" y="662" width="462" height="661" frameX="-104" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-idle0008" x="1382" y="662" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-idle0009" x="1858" y="0" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-lookRight0000" x="1842" y="662" width="464" height="655" frameX="-102" frameY="-11" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-lookRight0001" x="0" y="1324" width="457" height="657" frameX="-109" frameY="-9" frameWidth="667" frameHeight="667" />
+<SubTexture name="left-lookRight0002" x="457" y="1324" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0000" x="917" y="1324" width="481" height="662" frameX="-99" frameY="-7" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0001" x="1398" y="1324" width="458" height="659" frameX="-108" frameY="-7" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0002" x="1856" y="1324" width="459" height="661" frameX="-107" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0003" x="0" y="1986" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0004" x="457" y="1324" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0005" x="460" y="1986" width="454" height="656" frameX="-126" frameY="-13" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0006" x="914" y="1986" width="466" height="662" frameX="-100" frameY="-4" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0007" x="1380" y="1986" width="462" height="661" frameX="-104" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0008" x="1842" y="1986" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-idle0009" x="0" y="2648" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="idle0000" x="0" y="2648" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-lookLeft0000" x="1842" y="662" width="464" height="655" frameX="-102" frameY="-11" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-lookLeft0001" x="460" y="2648" width="457" height="657" frameX="-109" frameY="-9" frameWidth="667" frameHeight="667" />
+<SubTexture name="right-lookLeft0002" x="1858" y="0" width="460" height="661" frameX="-106" frameY="-5" frameWidth="667" frameHeight="667" />
+</TextureAtlas>

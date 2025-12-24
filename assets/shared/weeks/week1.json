@@ -1,0 +1,17 @@
+{
+	"songs": [
+		["Dami-Nate", "dami", "bf", "ItsAudity, Fueg0"],
+		["Bussin'", "dami", "bf", "ItsAudity"],
+		["Affliction", "affliction", "bf", "No7e"],
+		["DOMINATION", "disarray", "bf", "SplatterDash"],
+		["Reawaken", "reverie", "bf", "SplatterDash"]
+	],
+
+	"storyName": "VS. Dami",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

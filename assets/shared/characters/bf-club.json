@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"offsets": [-3, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [-10, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [10, -7],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [-10, -7],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [8, -7],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MissD"
+		},
+		{
+			"offsets": [-11, -8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MissU"
+		},
+		{
+			"offsets": [-2, 4],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MissR"
+		},
+		{
+			"offsets": [-1, 5],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [-10, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MissL"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [70, 27],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "alt-left"
+		},
+		{
+			"offsets": [77, 28],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "alt-right"
+		},
+		{
+			"offsets": [46, 26],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "alt-down"
+		},
+		{
+			"offsets": [36, 49],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "alt-up"
+		},
+		{
+			"loop": false,
+			"offsets": [9, -7],
+			"anim": "singDOWN-wind",
+			"fps": 24,
+			"name": "downwind",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-11, -8],
+			"anim": "singUP-wind",
+			"fps": 24,
+			"name": "upwind",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-2, 5],
+			"anim": "singRIGHT-wind",
+			"fps": 24,
+			"name": "rightwind",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, 0],
+			"anim": "singLEFT-wind",
+			"fps": 24,
+			"name": "leftwind",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [110, -12],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Avoid",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [80, 10],
+			"anim": "hit",
+			"fps": 24,
+			"name": "hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [84, 25],
+			"anim": "throw",
+			"fps": 24,
+			"name": "micthrow",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Bf_Dami",
+	"position": [-25, 330],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [46, -10],
+	"sing_duration": 4,
+	"scale": 1.05,
+	"_editor_isPlayer": true
+}

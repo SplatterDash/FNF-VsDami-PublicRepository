@@ -1,0 +1,45 @@
+{
+    "dialogue": [
+        {
+            "portrait": "dami",
+            "expression": "man",
+            "audio": "dami-line1",
+            "text": "Damn. Now I believe it."
+        }, {
+            "portrait": "dami",
+            "expression": "awesome",
+            "audio": "dami-line2",
+            "text": "That was great!"
+        }, {
+            "portrait": "bfvd",
+            "expression": "happy",
+            "audio": "bf-line1",
+            "text": "Heh, glad you liked it!"
+        }, {
+            "portrait": "aiden",
+            "expression": "thanks",
+            "audio": "aiden-line1",
+            "text": "Yeah, and thanks for-"
+        }, {
+            "portrait": "dami",
+            "expression": "confused",
+            "audio": "dami-line3",
+            "text": "Aidan, where're you going?"
+        }, {
+            "portrait": "aiden",
+            "expression": "confused",
+            "audio": "aiden-line2",
+            "text": "...into the line...?"
+        }, {
+            "portrait": "dami",
+            "expression": "mainconfident",
+            "audio": "dami-line4",
+            "text": "Are you kidding? I had more fun with these two!"
+        }, {
+            "portrait": "dami",
+            "expression": "awesome",
+            "audio": "dami-line5",
+            "text": "BF, I wanna challenge you again! We got time, this line isn't gonna get any bigger... or nicer. So show me what else you got!"
+        }
+    ]
+}

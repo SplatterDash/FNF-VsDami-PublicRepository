@@ -1,0 +1,50 @@
+{
+	"position": [
+		120,
+		20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Aiden_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				-20
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				-20
+			],
+			"loop_name": "confused",
+			"idle_name": "confused"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-20
+			],
+			"anim": "concerned",
+			"idle_offsets": [
+				0,
+				-20
+			],
+			"loop_name": "concerned",
+			"idle_name": "concerned"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-20
+			],
+			"anim": "thanks",
+			"idle_offsets": [
+				0,
+				-20
+			],
+			"loop_name": "thanks",
+			"idle_name": "thanks"
+		}
+	]
+}

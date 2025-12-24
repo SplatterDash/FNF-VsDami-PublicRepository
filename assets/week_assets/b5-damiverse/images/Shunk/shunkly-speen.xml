@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shunkly-speen.png">
+<SubTexture name="speen idle0000" x="0" y="0" width="266" height="246" frameX="-16" frameY="-27" frameWidth="300" frameHeight="292" />
+<SubTexture name="speen idle0001" x="0" y="246" width="252" height="278" frameX="-27" frameY="-9" frameWidth="300" frameHeight="292" />
+<SubTexture name="speen idle0002" x="0" y="524" width="272" height="247" frameX="-13" frameY="-17" frameWidth="300" frameHeight="292" />
+<SubTexture name="speen idle0003" x="0" y="771" width="247" height="267" frameX="-27" frameY="-15" frameWidth="300" frameHeight="292" />
+</TextureAtlas>

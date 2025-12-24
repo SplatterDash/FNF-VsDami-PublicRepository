@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "cough",
+			"fps": 24,
+			"name": "coughingfit",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/BFCough",
+	"position": [-165, 320],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [-44, -50],
+	"sing_duration": 4,
+	"scale": 1.05,
+	"_editor_isPlayer": true
+}

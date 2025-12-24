@@ -1,0 +1,128 @@
+{
+	"position": [
+		140,
+		40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Dami_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				60,
+				-20
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				60,
+				-20
+			],
+			"loop_name": "confused",
+			"idle_name": "confused"
+		},
+		{
+			"loop_offsets": [
+				30,
+				-20
+			],
+			"anim": "mainconfident",
+			"idle_offsets": [
+				30,
+				-20
+			],
+			"loop_name": "mainconfident",
+			"idle_name": "mainconfident"
+		},
+		{
+			"loop_offsets": [
+				30,
+				-20
+			],
+			"anim": "confidentbutweak",
+			"idle_offsets": [
+				30,
+				-20
+			],
+			"loop_name": "confidentbutweak",
+			"idle_name": "confidentbutweak"
+		},
+		{
+			"loop_offsets": [
+				30,
+				-20
+			],
+			"anim": "overlyconfident",
+			"idle_offsets": [
+				30,
+				-20
+			],
+			"loop_name": "overlyconfident",
+			"idle_name": "overlyconfident"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-20
+			],
+			"anim": "man",
+			"idle_offsets": [
+				60,
+				-20
+			],
+			"loop_name": "man",
+			"idle_name": "man"
+		},
+		{
+			"loop_offsets": [
+				30,
+				-20
+			],
+			"anim": "awesome",
+			"idle_offsets": [
+				30,
+				-20
+			],
+			"loop_name": "awesome",
+			"idle_name": "awesome"
+		},
+		{
+			"loop_offsets": [
+				30,
+				-20
+			],
+			"anim": "weak",
+			"idle_offsets": [
+				30,
+				-20
+			],
+			"loop_name": "weak",
+			"idle_name": "weak"
+		},
+		{
+			"loop_offsets": [
+				30,
+				-20
+			],
+			"anim": "stupid",
+			"idle_offsets": [
+				30,
+				-20
+			],
+			"loop_name": "stupid",
+			"idle_name": "stupid"
+		},
+		{
+			"loop_offsets": [
+				30,
+				-20
+			],
+			"anim": "cough",
+			"idle_offsets": [
+				30,
+				-20
+			],
+			"loop_name": "cough",
+			"idle_name": "cough"
+		}
+	]
+}

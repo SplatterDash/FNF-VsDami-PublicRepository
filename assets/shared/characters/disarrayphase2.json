@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				380,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "-sprites disarray p2/left"
+		},
+		{
+			"offsets": [
+				160,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "-sprites disarray p2/right"
+		},
+		{
+			"offsets": [
+				-70,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "-sprites disarray p2/up"
+		},
+		{
+			"offsets": [
+				-70,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "-sprites disarray p2/down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "-sprites disarray p2/idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/disarrayphase2",
+	"position": [
+		-105,
+		-405
+	],
+	"healthicon": "disarray",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		140,
+		255
+	],
+	"camera_position": [
+		570,
+		820
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

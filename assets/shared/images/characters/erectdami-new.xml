@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="erectdami-new.png">
+<SubTexture name="down0000" x="0" y="0" width="702" height="516" frameX="-184" frameY="-381" frameWidth="1045" frameHeight="917" />
+<SubTexture name="down0001" x="702" y="0" width="685" height="521" frameX="-196" frameY="-376" frameWidth="1045" frameHeight="917" />
+<SubTexture name="idle0000" x="1387" y="0" width="488" height="748" frameX="-314" frameY="-155" frameWidth="1045" frameHeight="917" />
+<SubTexture name="idle0001" x="1875" y="0" width="481" height="757" frameX="-307" frameY="-146" frameWidth="1045" frameHeight="917" />
+<SubTexture name="idle0002" x="2356" y="0" width="481" height="760" frameX="-301" frameY="-143" frameWidth="1045" frameHeight="917" />
+<SubTexture name="idle0003" x="2837" y="0" width="481" height="760" frameX="-298" frameY="-143" frameWidth="1045" frameHeight="917" />
+<SubTexture name="idle0004" x="3318" y="0" width="479" height="760" frameX="-297" frameY="-143" frameWidth="1045" frameHeight="917" />
+<SubTexture name="idle0005" x="0" y="760" width="481" height="760" frameX="-295" frameY="-143" frameWidth="1045" frameHeight="917" />
+<SubTexture name="left0000" x="481" y="760" width="666" height="662" frameX="-41" frameY="-225" frameWidth="1045" frameHeight="917" />
+<SubTexture name="left0001" x="1147" y="760" width="668" height="667" frameX="-44" frameY="-220" frameWidth="1045" frameHeight="917" />
+<SubTexture name="right0000" x="1815" y="760" width="641" height="644" frameX="-361" frameY="-260" frameWidth="1045" frameHeight="917" />
+<SubTexture name="right0001" x="2456" y="760" width="624" height="646" frameX="-359" frameY="-258" frameWidth="1045" frameHeight="917" />
+<SubTexture name="up0000" x="3080" y="760" width="453" height="846" frameX="-279" frameY="-51" frameWidth="1045" frameHeight="917" />
+<SubTexture name="up0001" x="3533" y="760" width="453" height="840" frameX="-289" frameY="-57" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0000" x="0" y="1606" width="481" height="760" frameX="-295" frameY="-143" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0001" x="481" y="1606" width="465" height="758" frameX="-327" frameY="-145" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0002" x="946" y="1606" width="470" height="763" frameX="-317" frameY="-140" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0003" x="1416" y="1606" width="478" height="777" frameX="-285" frameY="-126" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0004" x="1416" y="1606" width="478" height="777" frameX="-285" frameY="-126" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0005" x="1894" y="1606" width="482" height="768" frameX="-289" frameY="-135" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0006" x="1894" y="1606" width="482" height="768" frameX="-289" frameY="-135" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0007" x="2376" y="1606" width="457" height="763" frameX="-318" frameY="-140" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0008" x="2833" y="1606" width="479" height="761" frameX="-336" frameY="-142" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0009" x="0" y="2383" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0010" x="462" y="2383" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0011" x="924" y="2383" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0012" x="1386" y="2383" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0013" x="1848" y="2383" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0014" x="2310" y="2383" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0015" x="2772" y="2383" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0016" x="0" y="3148" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0017" x="462" y="3148" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0018" x="924" y="3148" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0019" x="1386" y="3148" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0020" x="1848" y="3148" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0021" x="2310" y="3148" width="462" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0022" x="2772" y="3148" width="464" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0023" x="0" y="3913" width="466" height="757" frameX="-328" frameY="-146" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0024" x="466" y="3913" width="436" height="767" frameX="-334" frameY="-136" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0025" x="902" y="3913" width="437" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0026" x="1339" y="3913" width="437" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+<SubTexture name="brugh0027" x="1776" y="3913" width="437" height="765" frameX="-334" frameY="-138" frameWidth="1045" frameHeight="917" />
+</TextureAtlas>

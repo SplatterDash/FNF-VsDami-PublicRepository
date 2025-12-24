@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="texture.png" width="3368" height="3738">
+	<SubTexture name="shimmyshimmyye0000" x="4" y="677" width="663" height="405" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="shimmyshimmyye0001" x="2959" y="4" width="405" height="661" frameX="-168" frameY="-118" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="shimmyshimmyye0002" x="4" y="4" width="365" height="669" frameX="-214" frameY="-110" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="shimmyshimmyye0003" x="1338" y="2228" width="663" height="368" rotated="true" frameX="-205" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="shimmyshimmyye0004" x="671" y="2233" width="663" height="368" rotated="true" frameX="-205" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="shimmyshimmyye0005" x="2450" y="1338" width="368" height="663" frameX="-205" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="shimmyshimmyye0006" x="2451" y="671" width="368" height="663" frameX="-205" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="shimmyshimmyye0007" x="2587" y="4" width="368" height="663" frameX="-205" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="shimmyshimmyye0008" x="2451" y="671" width="368" height="663" frameX="-205" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="shimmyshimmyye0009" x="2587" y="4" width="368" height="663" frameX="-205" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0000" x="4" y="677" width="663" height="405" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0001" x="821" y="4" width="427" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0002" x="1338" y="2600" width="661" height="436" rotated="true" frameX="-172" frameY="-118" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0003" x="671" y="2605" width="661" height="436" rotated="true" frameX="-172" frameY="-118" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0004" x="2003" y="2672" width="661" height="428" rotated="true" frameX="-173" frameY="-118" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0005" x="2462" y="2005" width="441" height="662" frameX="-169" frameY="-117" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0006" x="4" y="1086" width="663" height="441" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0007" x="671" y="676" width="441" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0008" x="1252" y="4" width="441" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0009" x="1116" y="671" width="441" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0010" x="4" y="1531" width="663" height="441" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0011" x="671" y="1343" width="663" height="441" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0012" x="1697" y="4" width="441" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0013" x="1561" y="671" width="441" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0014" x="1338" y="1338" width="663" height="441" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0015" x="4" y="1976" width="663" height="441" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0016" x="1338" y="1783" width="663" height="441" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0017" x="671" y="1788" width="663" height="441" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0018" x="2142" y="4" width="441" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0019" x="2006" y="671" width="441" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="justboringdude0020" x="2005" y="1338" width="441" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0000" x="4" y="2421" width="663" height="441" rotated="true" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0001" x="4" y="2866" width="662" height="450" rotated="true" frameX="-159" frameY="-117" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0002" x="373" y="4" width="444" height="668" frameX="-172" frameY="-111" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0003" x="2005" y="2005" width="453" height="663" frameX="-168" frameY="-116" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0004" x="2822" y="1338" width="435" height="660" frameX="-189" frameY="-119" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0005" x="2077" y="3171" width="473" height="560" frameX="-164" frameY="-227" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0006" x="1135" y="3104" width="467" height="565" frameX="-169" frameY="-222" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0007" x="2077" y="3171" width="473" height="560" frameX="-164" frameY="-227" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0008" x="1606" y="3104" width="467" height="565" frameX="-169" frameY="-222" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0009" x="670" y="3104" width="461" height="570" frameX="-171" frameY="-217" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0010" x="2907" y="2002" width="420" height="583" frameX="-134" frameY="-204" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0011" x="2907" y="2589" width="414" height="578" frameX="-134" frameY="-209" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0012" x="2823" y="671" width="414" height="578" frameX="-134" frameY="-209" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0013" x="4" y="3320" width="578" height="414" rotated="true" frameX="-134" frameY="-209" frameWidth="778" frameHeight="840"/>
+	<SubTexture name="laugh0014" x="2907" y="2589" width="414" height="578" frameX="-134" frameY="-209" frameWidth="778" frameHeight="840"/>
+</TextureAtlas>

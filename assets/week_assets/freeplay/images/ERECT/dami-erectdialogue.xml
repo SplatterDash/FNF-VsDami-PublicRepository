@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dami-erectdialogue.png">
+<SubTexture name="brug0000" x="0" y="0" width="654" height="670" frameX="-10" frameY="-14" frameWidth="677" frameHeight="680" />
+<SubTexture name="angry second0000" x="654" y="0" width="661" height="677" frameX="-3" frameY="-7" frameWidth="677" frameHeight="680" />
+<SubTexture name="angry second0001" x="1315" y="0" width="664" height="678" frameX="0" frameY="-6" frameWidth="677" frameHeight="680" />
+<SubTexture name="angry initial0000" x="0" y="678" width="671" height="684" frameX="-10" frameY="0" frameWidth="677" frameHeight="680" />
+<SubTexture name="angry initial0001" x="671" y="678" width="666" height="676" frameX="-10" frameY="-8" frameWidth="677" frameHeight="680" />
+<SubTexture name="transform still0000" x="1337" y="678" width="641" height="669" frameX="-18" frameY="-9" frameWidth="664" frameHeight="680" />
+<SubTexture name="transform full0000" x="0" y="1362" width="641" height="684" frameX="-18" frameY="0" frameWidth="664" frameHeight="680" />
+<SubTexture name="transform full0001" x="641" y="1362" width="668" height="684" frameX="0" frameY="0" frameWidth="664" frameHeight="680" />
+<SubTexture name="transform full0002" x="1309" y="1362" width="660" height="684" frameX="-8" frameY="0" frameWidth="664" frameHeight="680" />
+<SubTexture name="transform full0003" x="0" y="2046" width="668" height="684" frameX="0" frameY="0" frameWidth="664" frameHeight="680" />
+</TextureAtlas>

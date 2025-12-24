@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "god dami idle instance 1"
+		},
+		{
+			"offsets": [200, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "god dami down instance 1"
+		},
+		{
+			"offsets": [300, 600],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "god dami up instance 1"
+		},
+		{
+			"offsets": [150, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "god dami right instance 1"
+		},
+		{
+			"offsets": [700, -20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "god dami left instance 1"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "close eye instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/RECOVER_God Dami",
+	"position": [-450, -490],
+	"healthicon": "reverie",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 0],
+	"camera_position": [-150, -130],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

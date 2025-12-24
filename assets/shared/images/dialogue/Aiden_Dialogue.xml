@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Aiden_Dialogue.png">
+<SubTexture name="concerned0000" x="0" y="0" width="337" height="398" frameX="-43" frameY="-4" frameWidth="400" frameHeight="400" />
+<SubTexture name="confused0000" x="337" y="0" width="337" height="398" frameX="-43" frameY="-4" frameWidth="400" frameHeight="400" />
+<SubTexture name="thanks0000" x="674" y="0" width="337" height="398" frameX="-43" frameY="-4" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

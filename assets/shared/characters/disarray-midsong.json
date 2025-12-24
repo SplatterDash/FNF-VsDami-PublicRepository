@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "scream",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 11, 12, 13, 14, 15],
+			"name": "scream"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 2, 3, 4, 4, 4, 4, 5, 6, 7, 8, 9],
+			"fps": 12,
+			"anim": "shurk",
+			"loop": false,
+			"name": "shurk"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/disarray-midsong",
+	"position": [78, 65],
+	"healthicon": "disarray",
+	"flip_x": false,
+	"healthbar_colors": [35, 135, 255],
+	"camera_position": [-251, -67],
+	"sing_duration": 4,
+	"scale": 2.5,
+	"_editor_isPlayer": false
+}

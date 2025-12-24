@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dami_Dialogue.png">
+<SubTexture name="awesome0000" x="918" y="0" width="378" height="393" frameX="-25" frameY="-4" frameWidth="400" frameHeight="400" />
+<SubTexture name="man0000" x="0" y="401" width="275" height="397" frameX="-58" frameY="-2" frameWidth="400" frameHeight="400" />
+<SubTexture name="overlyconfident0000" x="918" y="393" width="373" height="393" frameX="-25" frameY="-4" frameWidth="400" frameHeight="400" />
+<SubTexture name="confused0000" x="275" y="401" width="275" height="397" frameX="-58" frameY="-2" frameWidth="400" frameHeight="400" />
+<SubTexture name="mainconfident0000" x="0" y="798" width="378" height="393" frameX="-25" frameY="-4" frameWidth="400" frameHeight="400" />
+<SubTexture name="weak0000" x="0" y="0" width="306" height="401" frameX="-61" frameY="-3" frameWidth="400" frameHeight="400" />
+<SubTexture name="cough0000" x="550" y="401" width="322" height="386" frameX="-55" frameY="-15" frameWidth="400" frameHeight="400" />
+<SubTexture name="stupid0000" x="306" y="0" width="306" height="401" frameX="-61" frameY="-3" frameWidth="400" frameHeight="400" />
+<SubTexture name="confidentbutweak0000" x="612" y="0" width="306" height="401" frameX="-61" frameY="-3" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

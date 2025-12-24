@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GFVD_Dialogue.png">
+<SubTexture name="confused0000" x="0" y="0" width="379" height="342" frameX="-18" frameY="-17" frameWidth="400" frameHeight="400" />
+</TextureAtlas>
